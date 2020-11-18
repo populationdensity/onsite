@@ -2785,7 +2785,7 @@ img {vertical-align: middle;}
 /* Banner */
 
 	#banner {
-		background-image: url("assets\css\images\banner.png");
+		background-image: url("banner.png");
 		background-position: center center;
 		background-size: cover;
 		height: 28em;
